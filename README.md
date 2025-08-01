@@ -82,8 +82,8 @@ Hello everyone, I'm **Devesh Anil Chaudhari**, an aspiring Data Analyst with a s
 <a href="https://www.linkedin.com/in/deveshchaudhari17/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=deveshchaudhari74@gmail.com" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="G-mail" height="30" width="40" /></a>
-<a href="https://gokuljujgar07.github.io" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/internetexplorer.svg" alt="Website" height="30" width="40" /></a>
+<!-- <a href="https://gokuljujgar07.github.io" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/internetexplorer.svg" alt="Website" height="30" width="40" /></a> -->
 <!-- <a href="https://www.kaggle.com/gokuljujgar"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="Kaggle" height="30" width="40" /></a> -->
 <a href="https://github.com/Devesh1745"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
